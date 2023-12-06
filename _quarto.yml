@@ -1,4 +1,5 @@
 project:
+  output-dir: docs
   type: website
 
 website:
@@ -14,6 +15,5 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
 
 

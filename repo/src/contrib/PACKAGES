@@ -1,0 +1,5 @@
+Package: TeachingWASM
+Version: 0.1.0
+Depends: R (>= 2.10)
+MD5sum: 00efd423737f9d3093333dbae2c5d56b
+NeedsCompilation: no
